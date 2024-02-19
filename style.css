@@ -1,0 +1,53 @@
+*
+{
+    margin:0;
+    padding:0;
+
+}
+.header
+{
+    background-color: violet;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+.container
+{
+    display: flex;
+    gap:20px;
+    justify-content: space-around;
+    margin-top: 50px;
+    
+}
+.subscription
+{
+    background-color: black;
+    color:white;
+    height: 400px;
+    width:220px;
+    margin-top: 10px;
+    padding:10px;
+    border-radius: 20px ;
+}
+.subscription__one
+{
+    color:white;
+    margin-top:10px;
+    text-align: center;
+    padding: 10px;
+}
+.subscription__desc
+{
+    border:1px solid white;
+border-radius: 20px;;
+
+    padding: 10px;
+    margin-top:10px;
+    width:170px;
+    margin-left: 20px;
+}
+.subscription__desc p
+{
+    padding:10px;
+}
